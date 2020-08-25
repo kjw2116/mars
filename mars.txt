@@ -2,3 +2,4 @@ The spaceship is fueled and we are ready to balst off to mars
 WE are docked in Spacestation waiting for slingshot to Mars.
 We are approaching mars; ready to land
 We have landed successfully on mars, it is strangely orange
+Rover is scooping soil from the planet
